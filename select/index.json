@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "By the Way",
+  "base_artist": "Red Hot Chili Peppers",
+  "createdAt": "2026-02-17T15:34:44.090649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Can Tell by the Way You Dance",
+      "artist": "Vern Gosdin",
+      "has_synced": false,
+      "path": "select/01_I_Can_Tell_by_the_Way_You_Dance_Vern_Gosdin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "Young Jeezy",
+      "has_synced": true,
+      "path": "select/02_By_the_Way_Young_Jeezy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can Tell (By the Way You Move)",
+      "artist": "George FitzGerald",
+      "has_synced": true,
+      "path": "select/03_I_Can_Tell_(By_the_Way_You_Move)_George_FitzGerald.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can Tell by the Way You Move",
+      "artist": "George FitzGerald",
+      "has_synced": true,
+      "path": "select/04_I_Can_Tell_by_the_Way_You_Move_George_FitzGerald.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/05_By_the_Way_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "By The Way",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/06_By_The_Way_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/07_By_the_Way_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_By_the_Way_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/09_By_the_Way_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "Amit Trivedi feat. Anushka Manchanda & Neuman Pinto",
+      "has_synced": true,
+      "path": "select/10_By_the_Way_Amit_Trivedi_feat._Anushka_Manchanda_&_Neuman_Pinto.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "Anushka Manchanda & Neuman Pinto",
+      "has_synced": true,
+      "path": "select/11_By_the_Way_Anushka_Manchanda_&_Neuman_Pinto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "By the Way",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/12_By_the_Way_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "By The Way",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/13_By_The_Way_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "By The Way",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/14_By_The_Way_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "By The way",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/15_By_The_way_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "By The Way - Live 2016",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/16_By_The_Way_-_Live_2016_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "By The Way (Live 2016)",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/17_By_The_Way_(Live_2016)_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "By The Way",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_By_The_Way_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
